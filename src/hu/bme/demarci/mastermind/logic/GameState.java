@@ -11,4 +11,5 @@ package hu.bme.demarci.mastermind.logic;
  */
 public enum GameState {
     IN_GAME, WON, LOST;
+    
 }

@@ -22,7 +22,7 @@ public class GameController {
 
     void finish() {
         long endTime = System.currentTimeMillis() - startTime;
-        
+    
     }
 
 }

@@ -11,6 +11,4 @@ public interface GameLogic {
     void nextStep();
 
     GameState getState();
-    
-    
 }

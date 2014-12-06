@@ -19,6 +19,10 @@ public class Guess {
         this.readOnly = readOnly;
     }
 
+    public Guess() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     public List<GuessResult> getResult() {
         return Collections.unmodifiableList(result);
     }

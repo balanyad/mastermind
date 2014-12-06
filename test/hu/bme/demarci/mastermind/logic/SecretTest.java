@@ -38,5 +38,4 @@ public class SecretTest {
         assertEquals(expResult, result);
         fail("The test case is a prototype.");
     }
-    
 }

@@ -5,6 +5,8 @@
  */
 package hu.bme.demarci.mastermind;
 
+import hu.bme.demarci.mastermind.logic.MastermindLogic;
+
 /**
  *
  * @author Marcell
@@ -12,9 +14,12 @@ package hu.bme.demarci.mastermind;
 public class Game {
 
     GameController controller;
+    MastermindLogic mmlogic = new MastermindLogic();
+    
 
     public Game() {
         controller = new GameController();
+        
     }
 
     public static void main(String args[]) {
