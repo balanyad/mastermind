@@ -5,6 +5,11 @@
  */
 package hu.bme.demarci.mastermind;
 
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Point;
+import java.awt.geom.Ellipse2D;
+
 /**
  *
  * @author Marcell
@@ -22,7 +27,7 @@ public class MainView extends javax.swing.JFrame {
         
     }
     
-
+    
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -95,6 +100,8 @@ public class MainView extends javax.swing.JFrame {
         });
 
         jButton6.setText("check my guess!");
+        
+        jPanel1.add(new BoardView());
 
         jMenu1.setText("File");
         jMenuBar1.add(jMenu1);

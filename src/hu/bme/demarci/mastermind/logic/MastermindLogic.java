@@ -13,6 +13,7 @@ public class MastermindLogic implements GameLogic{
     private GameState gamestate;
     private List<Guess> guesses;
     Secret solution;
+    public static int round = 0;
     
     @Override
     public void init() {
@@ -32,7 +33,8 @@ public class MastermindLogic implements GameLogic{
     @Override
     public void nextStep() {
         // TODO set readonlys
-        // TODO evaluate
+        round++;
+    	// TODO evaluate
         
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
