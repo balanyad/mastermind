@@ -3,7 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/mastermind/FrameView.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/MainView.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/GameLogic.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/Dot.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/Game.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/test/hu/bme/demarci/mastermind/logic/GuessTest.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/MastermindLogic.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/Secret.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/test/hu/bme/demarci/mastermind/logic/SecretTest.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/Guess.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/GameController.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/GameState.java</file>
+            <file>file:/C:/Users/Marcell/Documents/NetBeansProjects/mastermind/src/hu/bme/demarci/mastermind/logic/GuessResult.java</file>
         </group>
     </open-files>
 </project-private>

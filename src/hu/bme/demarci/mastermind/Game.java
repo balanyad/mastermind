@@ -13,13 +13,12 @@ import hu.bme.demarci.mastermind.logic.MastermindLogic;
  */
 public class Game {
 
-    GameController controller;
+    GameController controller = new GameController();
     MastermindLogic mmlogic = new MastermindLogic();
     
 
     public Game() {
-        controller = new GameController();
-        
+        // TODO mainview---(register click)--->controller---(color list)--->mastermindlogic
     }
 
     public static void main(String args[]) {
